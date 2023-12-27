@@ -71,7 +71,7 @@
     }
   ]
 },
-      {
+      {{
         "type": "Feature",
         "properties": {
           "name": "Gedung Pendidikan"
