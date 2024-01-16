@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "name": "Gedung Rektorat" },
+      "properties": { "name": "Gedung Sate" },
       "geometry": {
         "coordinates": [
           [
@@ -50,7 +50,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {  "name": "Taman Sate" },
       "geometry": {
         "coordinates": [
           [
