@@ -167,7 +167,7 @@
     },
     {
       "type": "Feature",
-      "properties": { Gedung Pos Telkom},
+      "properties": { "name": "Gedung Pos-Telkom "},
       "geometry": {
         "coordinates": [
           [
